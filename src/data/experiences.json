@@ -1,22 +1,5 @@
 [
   {
-    "company": "Freelance",
-    "city": "Hendaye",
-    "date": "from 2015",
-    "title": "Developer",
-    "sub": [
-      { 
-        "date": "from 2015",
-        "work": "Creation of a web plateform B to C for tourim  professionals"
-      }, {
-        "date": "from 2015",
-        "work": "Multiple R&D project open source on framework pattern"
-      },  {
-        "date": "from 2017",
-        "work": "Create onlinne agenda"
-      }
-    ]
-  }, {
     "company": "Lp Digital System",
     "city": "Paris",
     "date": "from 2012 to 2015",
